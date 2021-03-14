@@ -19,6 +19,8 @@
 
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
+[nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
+
 [nebula](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability
 
 [serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System

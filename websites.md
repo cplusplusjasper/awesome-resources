@@ -3,11 +3,15 @@
 
 [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas): List of awesome app ideas
 
+[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets):  Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
 
 [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
@@ -15,19 +19,43 @@
 
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 
+[dash](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+[DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
+
+[engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
+
 [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
+
+[freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree 
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 [handson-ml2](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
+[java8-tutorial](https://github.com/winterbe/java8-tutorial): Modern Java - A Guide to Java 8
+
+[Javascript](https://github.com/TheAlgorithms/Javascript): A repository for All algorithms implemented in Javascript
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 [lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
 
 [linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
 
-[linux](https://github.com/torvalds/linux)
+[linux](https://github.com/torvalds/linux): Linux kernel source tree
+
+[material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google
 
 [Mirheo](https://github.com/cselab/Mirheo): Computational Microfluidics
+
+[NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof
+
+[newton-dynamics](https://github.com/MADEAPPS/newton-dynamics): Newton Dynamics is an integrated solution for real time simulation of physics environments.
+
+[ngsolve](https://github.com/NGSolve/ngsolve): Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics.
 
 [OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
 
@@ -35,15 +63,25 @@
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
 
-[NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof
-
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
+
+[project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
+
+[pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
 [PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
 
 [python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
+
+[raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
+
+[scaffold-eth](https://github.com/austintgriffith/scaffold-eth):  forkable Ethereum dev stack focused on fast product iterations
+
+[SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
+
+[styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
@@ -52,3 +90,5 @@
 [understand_linux_process](https://github.com/tobegit3hub/understand_linux_process): The open-source ebook of Understand Linux Process
 
 [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+[zola](https://github.com/getzola/zola): A fast static site generator in a single binary with everything built-in. https://www.getzola.org

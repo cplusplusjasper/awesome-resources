@@ -9,6 +9,8 @@
 
 [cosmopolitan](https://github.com/jart/cosmopolitan): fast portable static native textmode containers
 
+[dolt](https://github.com/dolthub/dolt): It's Git for Data
+
 [first-contributions](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects
 
 [flowchart-fun](https://github.com/tone-row/flowchart-fun): A small app for making quick flowcharts from text

@@ -3,6 +3,10 @@
 
 [30min_guides](https://github.com/qinjx/30min_guides): 各种几十分钟入门的文档
 
+[Android](https://github.com/open-android/Android): GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
+
+[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+
 [awesome-programming-books](https://github.com/jobbole/awesome-programming-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
 [chinese_docker](https://github.com/widuu/chinese_docker): docker中文文档
@@ -10,6 +14,10 @@
 [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools): Chrome开发者工具中文手册
 
 [community](https://github.com/cosen1024/community): 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
+
+[Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed): C++ Templates 2ed 笔记：C++11/14/17 模板技术
+
+[cpptest](https://github.com/yangsoon/cpptest): C++学习笔记 包括 侯捷讲解的系列CPP课程以及UNP、APUE等
 
 [CPP-Templates-2nd--](https://github.com/Walton1128/CPP-Templates-2nd--): 《C++ Templates 第二版》中文翻译
 
@@ -37,6 +45,8 @@
 
 [markdown-nice](https://github.com/mdnice/markdown-nice): 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
+[markdown-simple-world](https://github.com/wizardforcel/markdown-simple-world):  Markdown·简单的世界
+
 [opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials): 社区维护的OpenGL教程网站
 
 [MyBookshelf](https://github.com/gedoor/MyBookshelf): 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -45,7 +55,11 @@
 
 [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 程序员练手小项目
 
+[Programming_learning_resource]https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
+
 [README](https://github.com/guodongxiaren/README): README文件语法解读，即Github Flavored Markdown语法介绍
+
+[ShiYanLou](https://github.com/Ewenwan/ShiYanLou): 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机 linux 面试
 
 [SimpleKernel](https://github.com/Simple-XX/SimpleKernel): 用于学习操作系统的简单内核
 
@@ -54,6 +68,8 @@
 [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC): 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 
 [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July): 编程之法：面试和算法心得
+
+[think-os-zh](https://github.com/wizardforcel/think-os-zh): 操作系统思考
 
 [uthread](https://github.com/Winnerhust/uthread): 一个简单的用户级线程库
 

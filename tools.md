@@ -1,7 +1,11 @@
 ## Tools
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
 
+[Files](https://github.com/files-community/Files): A modern file explorer that pushes the boundaries of the platform.
+
 [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
+
+[git](https://github.com/git/git): Git Source Code Mirror
 
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
 
@@ -15,6 +19,10 @@
 
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
 
-[tmux](https://github.com/tmux/tmux)
+[tmux](https://github.com/tmux/tmux): tmux source code
+
+[vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap): Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 
 [winmerge](https://github.com/WinMerge/winmerge): WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+
+[xmake](https://github.com/xmake-io/xmake): A cross-platform build utility based on Lua
