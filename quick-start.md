@@ -3,9 +3,9 @@
 
 [computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
+
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 [hacker101](https://github.com/Hacker0x01/hacker101): Source code for Hacker101.com - a free online web and mobile security class.
 
