@@ -15,8 +15,7 @@ Some awesome online resources
 
 ## [Projects](https://github.com/cplusplusjasper/awesome-resources/blob/main/projects.md)
 
-## Books
-[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript.
+## [Books](https://github.com/cplusplusjasper/awesome-resources/blob/main/books.md)
 
 ## [Websites](https://github.com/cplusplusjasper/awesome-resources/blob/main/websites.md)
 
