@@ -15,8 +15,6 @@
 
 [dash](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
 
 [engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
@@ -27,13 +25,9 @@
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[java8-tutorial](https://github.com/winterbe/java8-tutorial): Modern Java - A Guide to Java 8
-
 [Javascript](https://github.com/TheAlgorithms/Javascript): A repository for All algorithms implemented in Javascript
 
 [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-
-[lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
 
 [linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
 
@@ -50,10 +44,6 @@
 [ngsolve](https://github.com/NGSolve/ngsolve): Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics.
 
 [OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
-
-[OpenScan](https://github.com/OpenScanEu/OpenScan): All you need to build your 3D Scanner
-
-[os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
 
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
 
