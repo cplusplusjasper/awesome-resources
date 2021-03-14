@@ -1,3 +1,4 @@
+## Geometry
 [CavalierContours](https://github.com/jbuckmccready/CavalierContours): 2D polyline library for offsetting, combining, etc.
 
 [delaunator-cpp](https://github.com/delfrrr/delaunator-cpp): A really fast C++ library for Delaunay triangulation of 2D points
