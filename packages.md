@@ -3,8 +3,6 @@
 
 [calculator](https://github.com/microsoft/calculator): Windows Calculator: A simple yet powerful calculator that ships with Windows
 
-[conan](https://github.com/conan-io/conan): The open-source C/C++ package manager
-
 [deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
 
 [gnuplot](http://www.gnuplot.info/): a portable command-line driven graphing utility

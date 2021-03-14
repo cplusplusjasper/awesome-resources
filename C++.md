@@ -1,6 +1,10 @@
 ## C++
 [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 
+[conan](https://github.com/conan-io/conan): The open-source C/C++ package manager
+
+[conan-center-index](https://github.com/conan-io/conan-center-index): Recipes for the ConanCenter repository
+
 [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet): C++ Syntax, Data Structures, and Algorithms
 
 [cprimer](https://github.com/andycai/cprimer): C/C++ Primer
