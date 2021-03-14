@@ -1,4 +1,6 @@
 ## Games
+[basic-computer-games](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
+
 [game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
 
 [godot](https://github.com/godotengine/godot): Multi-platform 2D and 3D game engine

@@ -15,7 +15,13 @@
 
 [d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
 
+[Data-Structure](https://github.com/kangjianwei/Data-Structure): 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
+
+[Document](https://github.com/FangWW/Document): 各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验)
+
 [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
+
+[free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 
 [Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn): 文章《Functional Programming For The Rest of Us》的中文翻译
 
@@ -27,6 +33,8 @@
 
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
+[libpku](https://github.com/lib-pku/libpku): 课程资料民间整理
+
 [markdown-nice](https://github.com/mdnice/markdown-nice): 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
 [opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials): 社区维护的OpenGL教程网站
@@ -35,9 +43,13 @@
 
 [practical-programming-books](https://github.com/EZLippi/practical-programming-books): 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
 
+[ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 程序员练手小项目
+
 [README](https://github.com/guodongxiaren/README): README文件语法解读，即Github Flavored Markdown语法介绍
 
 [SimpleKernel](https://github.com/Simple-XX/SimpleKernel): 用于学习操作系统的简单内核
+
+[sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
 [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC): 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 

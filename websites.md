@@ -3,6 +3,8 @@
 
 [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas): List of awesome app ideas
 
+[awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
@@ -14,6 +16,8 @@
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 
 [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
+
+[free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 [handson-ml2](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
@@ -31,8 +35,20 @@
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
 
+[NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof
+
+[polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
+
+[PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
+
+[python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
+
+[quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
+
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 [ThinkOS](https://github.com/AllenDowney/ThinkOS): Text and supporting code for Think OS: A Brief Introduction to Operating Systems, by Allen Downey.
 
 [understand_linux_process](https://github.com/tobegit3hub/understand_linux_process): The open-source ebook of Understand Linux Process
+
+[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): 24 Lessons, 12 Weeks, Get Started as a Web Developer
