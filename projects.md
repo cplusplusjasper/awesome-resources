@@ -15,4 +15,8 @@
 
 [flowchart-fun](https://github.com/tone-row/flowchart-fun): A small app for making quick flowcharts from text
 
+[libaco](https://github.com/hnes/libaco): A blazing fast and lightweight C asymmetric coroutine library
+
+[tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
+
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs

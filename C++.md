@@ -1,6 +1,8 @@
 ## C++
 [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 
+[cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet): C++ Syntax, Data Structures, and Algorithms
+
 [cprimer](https://github.com/andycai/cprimer): C/C++ Primer
 
 [dbg-macro](https://github.com/sharkdp/dbg-macro): A dbg(…) macro for C++
@@ -19,6 +21,8 @@
 
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
+[json](https://github.com/nlohmann/json): JSON for Modern C++
+
 [nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
 
 [nebula](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -28,6 +32,8 @@
 [Sogou C++ Workflow](https://github.com/sogou/workflow): C++ Parallel Computing and Asynchronous Networking Engine
 
 [spdlog](https://github.com/gabime/spdlog): Very fast, header-only/compiled, C++ logging library.
+
+[taskflow](https://github.com/taskflow/taskflow): A General-purpose Parallel and Heterogeneous Task Programming System
 
 [ThreadPool](https://github.com/progschj/ThreadPool): A simple C++11 Thread Pool implementation
 

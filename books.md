@@ -1,9 +1,13 @@
 ## Books
+[500lines](https://github.com/aosabook/500lines): 500 Lines or Less
+
 [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 [EbookFoundation-free-programming-books](https://github.com/aluismoya/EbookFoundation-free-programming-books)
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
+
+[How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System): How to Make a Computer Operating System in C++
 
 [machine-learning-books](https://github.com/dwelcaslu/machine-learning-books)
 

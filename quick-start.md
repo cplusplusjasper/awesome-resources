@@ -7,6 +7,8 @@
 
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 
+[hacker101](https://github.com/Hacker0x01/hacker101): Source code for Hacker101.com - a free online web and mobile security class.
+
 [handson-ml2](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 [java8-tutorial](https://github.com/winterbe/java8-tutorial): Modern Java - A Guide to Java 8
@@ -18,6 +20,8 @@
 [os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
 
 [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
+
+[pyecharts](https://github.com/pyecharts/pyecharts): Python Echarts Plotting Library
 
 [python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 

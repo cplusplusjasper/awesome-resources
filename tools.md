@@ -1,5 +1,9 @@
 ## Tools
+[cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
+
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
+
+[explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 
 [Files](https://github.com/files-community/Files): A modern file explorer that pushes the boundaries of the platform.
 

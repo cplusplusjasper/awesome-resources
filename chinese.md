@@ -33,6 +33,8 @@
 
 [Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn): 文章《Functional Programming For The Rest of Us》的中文翻译
 
+[GitClub](https://github.com/TellH/GitClub): 不仅仅是Github客户端，而且是一个发现优秀Github开源项目的app
+
 [growth-ebook](https://github.com/phodal/growth-ebook): 全栈增长工程师指南
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目
@@ -42,6 +44,8 @@
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
 [libpku](https://github.com/lib-pku/libpku): 课程资料民间整理
+
+[linux-command](https://github.com/jaywcjlove/linux-command): Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 [markdown-nice](https://github.com/mdnice/markdown-nice): 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
@@ -56,6 +60,8 @@
 [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList): 程序员练手小项目
 
 [Programming_learning_resource]https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
+
+[react-tetris](https://github.com/chvin/react-tetris): Use React, Redux, Immutable to code Tetris.
 
 [README](https://github.com/guodongxiaren/README): README文件语法解读，即Github Flavored Markdown语法介绍
 
@@ -74,5 +80,7 @@
 [uthread](https://github.com/Winnerhust/uthread): 一个简单的用户级线程库
 
 [wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言
+
+[wukong](https://github.com/huichen/wukong): 高度可定制的全文搜索引擎
 
 [YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
