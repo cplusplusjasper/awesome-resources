@@ -1,6 +1,10 @@
 # awesome-resources
 Some awesome online resources
 
+## [Quick start](https://github.com/cplusplusjasper/awesome-resources/blob/main/quick-start.md)
+
+## [Books](https://github.com/cplusplusjasper/awesome-resources/blob/main/books.md)
+
 ## [C++](https://github.com/cplusplusjasper/awesome-resources/blob/main/C++.md)
 
 ## [Geometry](https://github.com/cplusplusjasper/awesome-resources/blob/main/geometry.md)
@@ -14,8 +18,6 @@ Some awesome online resources
 ## [Games](https://github.com/cplusplusjasper/awesome-resources/blob/main/games.md)
 
 ## [Projects](https://github.com/cplusplusjasper/awesome-resources/blob/main/projects.md)
-
-## [Books](https://github.com/cplusplusjasper/awesome-resources/blob/main/books.md)
 
 ## [Websites](https://github.com/cplusplusjasper/awesome-resources/blob/main/websites.md)
 

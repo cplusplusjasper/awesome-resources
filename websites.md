@@ -3,8 +3,6 @@
 
 [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas): List of awesome app ideas
 
-[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets):  Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -14,10 +12,6 @@
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
 
 [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-[computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
-
-[cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 
 [dash](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 
@@ -32,8 +26,6 @@
 [freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree 
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-[handson-ml2](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 [java8-tutorial](https://github.com/winterbe/java8-tutorial): Modern Java - A Guide to Java 8
 
@@ -65,13 +57,9 @@
 
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
 
-[project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
-
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
 [PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
-
-[python-cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
 
@@ -84,11 +72,5 @@
 [styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-[ThinkOS](https://github.com/AllenDowney/ThinkOS): Text and supporting code for Think OS: A Brief Introduction to Operating Systems, by Allen Downey.
-
-[understand_linux_process](https://github.com/tobegit3hub/understand_linux_process): The open-source ebook of Understand Linux Process
-
-[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 [zola](https://github.com/getzola/zola): A fast static site generator in a single binary with everything built-in. https://www.getzola.org

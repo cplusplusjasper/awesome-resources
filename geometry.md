@@ -35,7 +35,7 @@
 
 [mmg](https://github.com/MmgTools/mmg): open source software for bidimensional and tridimensional remeshing
 
-[netgen](https://github.com/NGSolve/netgen)
+[netgen](https://github.com/NGSolve/netgen): an automatic 3d tetrahedral mesh generator
 
 [optimesh](https://github.com/nschloe/optimesh): Mesh optimization, mesh smoothing.
 
