@@ -15,6 +15,8 @@
 
 [Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 
+[FreeCAD](https://github.com/FreeCAD/FreeCAD): a free and opensource multiplatform 3D parametric modeler.
+
 [fTetWild](https://github.com/wildmeshing/fTetWild): Fast Tetrahedral Meshing in the Wild
 
 [GeometricTools](https://github.com/davideberly/GeometricTools): A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
@@ -23,11 +25,15 @@
 
 [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction): Introductory assignment for Geometry Processing course
 
+[gmsh](http://gmsh.info/): A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities - [Source](https://gitlab.onelab.info/gmsh/gmsh)
+
 [gptoolbox](https://github.com/alecjacobson/gptoolbox): Matlab toolbox for Geometry Processing.
 
 [instant-meshes](https://github.com/wjakob/instant-meshes): Interactive field-aligned mesh generator
 
 [MathGeoLib](https://github.com/juj/MathGeoLib): A C++ library for linear algebra and geometry manipulation for computer graphics.
+
+[meshlab](https://github.com/cnr-isti-vclab/meshlab): The open source mesh processing system
 
 [meshpy](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 

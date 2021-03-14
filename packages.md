@@ -3,7 +3,13 @@
 
 [calculator](https://github.com/microsoft/calculator): Windows Calculator: A simple yet powerful calculator that ships with Windows
 
+[conan](https://github.com/conan-io/conan): The open-source C/C++ package manager
+
 [deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
+
+[gnuplot](http://www.gnuplot.info/): a portable command-line driven graphing utility
+
+[ParaView](https://github.com/Kitware/ParaView): VTK-based Data Analysis and Visualization Application
 
 [SandDance](https://github.com/microsoft/SandDance): Visually explore, understand, and present your data.
 
@@ -12,6 +18,8 @@
 [vscode](https://github.com/microsoft/vscode): Visual Studio Code
 
 [vscode-docs](https://github.com/microsoft/vscode-docs): Public documentation for Visual Studio Code
+
+[VTK](https://github.com/Kitware/VTK): Visualization Toolkit
 
 [winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 

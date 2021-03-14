@@ -27,6 +27,8 @@
 
 [nebula](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability
 
+[oneTBB](https://github.com/oneapi-src/oneTBB): oneAPI Threading Building Blocks (oneTBB)
+
 [serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System
 
 [Sogou C++ Workflow](https://github.com/sogou/workflow): C++ Parallel Computing and Asynchronous Networking Engine

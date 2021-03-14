@@ -1,4 +1,6 @@
 ## Tools
+[CMake](https://github.com/Kitware/CMake): a cross-platform, open-source build system generator.
+
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
 
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
