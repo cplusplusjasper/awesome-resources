@@ -13,6 +13,8 @@
 
 [folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
 
+[googletest](https://github.com/google/googletest): Google Testing and Mocking Framework
+
 [HTML++](https://github.com/csb6/html-plus-plus): Write HTML using C++ templates
 
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
