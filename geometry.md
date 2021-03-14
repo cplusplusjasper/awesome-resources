@@ -55,7 +55,7 @@
 
 [SeismicMesh](https://github.com/krober10nd/SeismicMesh): 2D/3D serial and parallel triangular mesh generation tool for finite element methods.
 
-[tetgen](https://github.com/ufz/tetgen): a clone of "A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator" tetgen
+[tetgen](https://github.com/ufz/tetgen): a clone of "A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator" tetgen - [official](http://www.wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 
 [TetWild](https://github.com/Yixin-Hu/TetWild): Robust Tetrahedral Meshing in the Wild.
 
