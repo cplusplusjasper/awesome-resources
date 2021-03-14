@@ -14,11 +14,15 @@ Some awesome online resources
 
 [fmt](https://github.com/fmtlib/fmt): A modern formatting library
 
+[folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
+
 [HTML++](https://github.com/csb6/html-plus-plus): Write HTML using C++ templates
 
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
 [nebula](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability
+
+[serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System
 
 [Sogou C++ Workflow](https://github.com/sogou/workflow): C++ Parallel Computing and Asynchronous Networking Engine
 
@@ -29,13 +33,33 @@ Some awesome online resources
 [yocto-gl](https://github.com/xelatihy/yocto-gl): Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
 
 ## Geometry
+[CavalierContours](https://github.com/jbuckmccready/CavalierContours): 2D polyline library for offsetting, combining, etc.
+
+[delaunator-cpp](https://github.com/delfrrr/delaunator-cpp): A really fast C++ library for Delaunay triangulation of 2D points
+
+[Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+
+[geometry-central](https://github.com/nmwsharp/geometry-central): Applied 3D geometry in C++, with a focus on surface meshes.
+
 [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction): Introductory assignment for Geometry Processing course
+
+[MathGeoLib](https://github.com/juj/MathGeoLib): A C++ library for linear algebra and geometry manipulation for computer graphics.
+
+[meshpy](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
+
+[meshzoo](https://github.com/nschloe/meshzoo): Some examples for mesh generation in Python
+
+[pmp-library](https://github.com/pmp-library/pmp-library): The Polygon Mesh Processing Library
 
 [polypartition](https://github.com/ivanfratric/polypartition): Tiny Polygon Partitioning and Triangulation Library
 
 [polyscope](https://github.com/nmwsharp/polyscope): A C++ & Python viewer for 3D data like meshes and point clouds
 
 [SeismicMesh](https://github.com/krober10nd/SeismicMesh): 2D/3D serial and parallel triangular mesh generation tool for finite element methods.
+
+[tinyspline](https://github.com/msteinbeck/tinyspline): ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Lua, Octave, PHP, Python, R, and Ruby.
+
+[vcglib](https://github.com/cnr-isti-vclab/vcglib): The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 
 ## Editors
 [blockly](https://github.com/google/blockly): The web-based visual programming editor.
@@ -54,6 +78,8 @@ Some awesome online resources
 [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
 
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
+
+[nushell](https://github.com/nushell/nushell): A new type of shell
 
 [perfview](https://github.com/microsoft/perfview): PerfView is a free performance-analysis tool that helps isolate CPU and memory-related performance issues.
 
@@ -75,6 +101,10 @@ Some awesome online resources
 [SandDance](https://github.com/microsoft/SandDance): Visually explore, understand, and present your data.
 
 [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
+
+[vscode](https://github.com/microsoft/vscode): Visual Studio Code
+
+[vscode-docs](https://github.com/microsoft/vscode-docs): Public documentation for Visual Studio Code
 
 [winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 
@@ -112,12 +142,32 @@ Some awesome online resources
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript.
 
 ## Websites
+[app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
+
+[awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas): List of awesome app ideas
+
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
+
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
 [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
+[computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
+
+[cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
+
+[handson-ml2](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 
 [lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
+
+[linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
+
+[linux](https://github.com/torvalds/linux)
+
+[Mirheo](https://github.com/cselab/Mirheo): Computational Microfluidics
+
+[OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
