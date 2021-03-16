@@ -1,24 +1,24 @@
 # awesome-resources
 Some awesome online resources
 
-## [Quick start](https://github.com/cplusplusjasper/awesome-resources/blob/main/quick-start.md)
+## [Quick start](quick-start.md)
 
-## [Books](https://github.com/cplusplusjasper/awesome-resources/blob/main/books.md)
+## [Books](books.md)
 
-## [C++](https://github.com/cplusplusjasper/awesome-resources/blob/main/C++.md)
+## [C++](C++.md)
 
-## [Geometry](https://github.com/cplusplusjasper/awesome-resources/blob/main/geometry.md)
+## [Geometry](geometry.md)
 
-## [Editors](https://github.com/cplusplusjasper/awesome-resources/blob/main/editors.md)
+## [Editors](editors.md)
 
-## [Tools](https://github.com/cplusplusjasper/awesome-resources/blob/main/tools.md)
+## [Tools](tools.md)
 
-## [Pakcages](https://github.com/cplusplusjasper/awesome-resources/blob/main/packages.md)
+## [Pakcages](packages.md)
 
-## [Games](https://github.com/cplusplusjasper/awesome-resources/blob/main/games.md)
+## [Games](games.md)
 
-## [Projects](https://github.com/cplusplusjasper/awesome-resources/blob/main/projects.md)
+## [Projects](projects.md)
 
-## [Websites](https://github.com/cplusplusjasper/awesome-resources/blob/main/websites.md)
+## [Websites](websites.md)
 
-## [中文资源](https://github.com/cplusplusjasper/awesome-resources/blob/main/chinese.md)
+## [中文资源](chinese.md)
