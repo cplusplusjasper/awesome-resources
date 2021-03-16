@@ -3,9 +3,15 @@
 
 [editor.md](https://github.com/pandao/editor.md): The open source embeddable online markdown editor (component).
 
+[Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor - and more. [Mirror](https://github.com/emacs-mirror/emacs)
+
+[ImHex](https://github.com/WerWolv/ImHex): A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+
 [lite](https://github.com/rxi/lite): A lightweight text editor written in Lua
 
 [marktext](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+[vim](https://github.com/vim/vim): The official Vim repository
 
 [vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
 

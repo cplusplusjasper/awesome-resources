@@ -27,6 +27,8 @@
 
 [tmux](https://github.com/tmux/tmux): tmux source code
 
+[Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
+
 [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap): Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 
 [winmerge](https://github.com/WinMerge/winmerge): WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.

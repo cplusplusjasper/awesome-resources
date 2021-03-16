@@ -43,6 +43,8 @@
 
 [netgen](https://github.com/NGSolve/netgen): an automatic 3d tetrahedral mesh generator
 
+[OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/): A generic and efficient polygon mesh data structure - [source](https://graphics.rwth-aachen.de:9000/OpenMesh/OpenMesh)
+
 [optimesh](https://github.com/nschloe/optimesh): Mesh optimization, mesh smoothing.
 
 [pmp-library](https://github.com/pmp-library/pmp-library): The Polygon Mesh Processing Library
@@ -64,6 +66,8 @@
 [tetgen](https://github.com/ufz/tetgen): a clone of "A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator" [tetgen](http://www.wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 
 [TetWild](https://github.com/Yixin-Hu/TetWild): Robust Tetrahedral Meshing in the Wild.
+
+[tinynurbs](https://github.com/pradeep-pyro/tinynurbs): C++ library for NURBS curves and surfaces
 
 [tinyspline](https://github.com/msteinbeck/tinyspline): ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Lua, Octave, PHP, Python, R, and Ruby.
 

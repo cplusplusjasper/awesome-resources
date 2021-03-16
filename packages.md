@@ -3,6 +3,8 @@
 
 [calculator](https://github.com/microsoft/calculator): Windows Calculator: A simple yet powerful calculator that ships with Windows
 
+[cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer): CUDA Voxelizer to convert polygon meshes into annotated voxel grids
+
 [deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
 
 [gnuplot](http://www.gnuplot.info/): a portable command-line driven graphing utility

@@ -17,6 +17,8 @@
 
 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
 
+[elasty](https://github.com/yuki-koyama/elasty): A research-oriented elastic body physics simulator
+
 [engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
 
 [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.

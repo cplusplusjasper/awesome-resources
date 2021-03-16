@@ -15,6 +15,8 @@
 
 [community](https://github.com/cosen1024/community): 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
 
+[CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
+
 [Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed): C++ Templates 2ed 笔记：C++11/14/17 模板技术
 
 [cpptest](https://github.com/yangsoon/cpptest): C++学习笔记 包括 侯捷讲解的系列CPP课程以及UNP、APUE等
@@ -31,11 +33,15 @@
 
 [free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 
+[free-programming-books-zh_CN](https://github.com/search?q=free-programming-books): 免费的计算机编程类中文书籍
+
 [Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn): 文章《Functional Programming For The Rest of Us》的中文翻译
 
 [GitClub](https://github.com/TellH/GitClub): 不仅仅是Github客户端，而且是一个发现优秀Github开源项目的app
 
 [growth-ebook](https://github.com/phodal/growth-ebook): 全栈增长工程师指南
+
+[hello-algorithm](https://github.com/geekxh/hello-algorithm): 针对小白的算法训练
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目
 

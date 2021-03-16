@@ -17,6 +17,8 @@
 
 [libaco](https://github.com/hnes/libaco): A blazing fast and lightweight C asymmetric coroutine library
 
+[Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
+
 [tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
 
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs
