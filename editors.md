@@ -13,6 +13,10 @@
 
 [vim](https://github.com/vim/vim): The official Vim repository
 
+[vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap): Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+
+[vim-galore](https://github.com/mhinz/vim-galore): All things Vim!
+
 [vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
 
 [Zettlr](https://github.com/Zettlr/Zettlr): A Markdown Editor for the 21st century.

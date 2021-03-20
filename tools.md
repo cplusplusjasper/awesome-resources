@@ -34,3 +34,5 @@
 [winmerge](https://github.com/WinMerge/winmerge): WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 
 [xmake](https://github.com/xmake-io/xmake): A cross-platform build utility based on Lua
+
+[you-get](https://github.com/soimort/you-get):  Dumb downloader that scrapes the web

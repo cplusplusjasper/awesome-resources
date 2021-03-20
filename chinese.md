@@ -13,6 +13,8 @@
 
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 中国独立开发者项目列表 -- 分享大家都在做什么
 
+[chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+
 [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools): Chrome开发者工具中文手册
 
 [community](https://github.com/cosen1024/community): 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
@@ -43,6 +45,8 @@
 
 [GitClub](https://github.com/TellH/GitClub): 不仅仅是Github客户端，而且是一个发现优秀Github开源项目的app
 
+[github](https://github.com/phodal/github): GitHub 漫游指南
+
 [growth-ebook](https://github.com/phodal/growth-ebook): 全栈增长工程师指南
 
 [hello-algorithm](https://github.com/geekxh/hello-algorithm): 针对小白的算法训练
@@ -50,6 +54,10 @@
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目
 
 [JavaBooks](https://github.com/itwanger/JavaBooks): Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
+
+[json-tutorial](https://github.com/miloyip/json-tutorial): 从零开始的 JSON 库教程
+
+[Learning-SICP](https://github.com/DeathKing/Learning-SICP): MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
@@ -60,6 +68,8 @@
 [markdown-nice](https://github.com/mdnice/markdown-nice): 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
 [markdown-simple-world](https://github.com/wizardforcel/markdown-simple-world):  Markdown·简单的世界
+
+[musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
 
 [MyBookshelf](https://github.com/gedoor/MyBookshelf): 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
@@ -73,15 +83,21 @@
 
 [Programming_learning_resource]https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
 
+[Python-100-Days](https://github.com/jackfrued/Python-100-Days): Python - 100天从新手到大师
+
 [react-tetris](https://github.com/chvin/react-tetris): Use React, Redux, Immutable to code Tetris.
 
 [README](https://github.com/guodongxiaren/README): README文件语法解读，即Github Flavored Markdown语法介绍
+
+[remote-working](https://github.com/greatghoul/remote-working): 收集整理远程工作相关的资料 (Archived)
 
 [ShiYanLou](https://github.com/Ewenwan/ShiYanLou): 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机 linux 面试
 
 [simple_os_book](https://github.com/chyyuu/simple_os_book): 操作系统的基本原理与简单实现
 
 [SimpleKernel](https://github.com/Simple-XX/SimpleKernel): 用于学习操作系统的简单内核
+
+[skill-map](https://github.com/TeamStuQ/skill-map): 程序员技能图谱
 
 [sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
@@ -93,9 +109,17 @@
 
 [think-os-zh](https://github.com/wizardforcel/think-os-zh): 操作系统思考
 
+[USTC-Course](https://github.com/USTC-Resource/USTC-Course): 中国科学技术大学课程资源
+
 [uthread](https://github.com/Winnerhust/uthread): 一个简单的用户级线程库
 
+[vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn): Vim 从入门到精通
+
+[weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
+
 [wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言
+
+[windows-apps-that-amaze-us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/en)
 
 [wukong](https://github.com/huichen/wukong): 高度可定制的全文搜索引擎
 

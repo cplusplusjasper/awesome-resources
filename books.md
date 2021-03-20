@@ -27,7 +27,19 @@
 
 [progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 
+[PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python Data Science Handbook: full text in Jupyter Notebooks
+
+[saythanks.io](https://github.com/BlitzKraft/saythanks.io): Spreading Thankfulness in Open Source.
+
 [sicp-pdf](https://github.com/sarabander/sicp-pdf): SICP PDF with Texinfo and LaTeX source
+
+[smart-questions](http://catb.org/~esr/faqs/smart-questions.html): How To Ask Questions The Smart Way
+
+[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook): Code for Tensorflow Machine Learning Cookbook
+
+[Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook): Simple Tensorflow Cookbook for easy-to-use
+
+[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 
 [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist): Books for people who are or aspire to manage/lead team(s) of software engineers
 

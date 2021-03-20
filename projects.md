@@ -5,6 +5,10 @@
 
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code
 
+[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Free software that works great, and also happens to be open-source Python.
+
+[Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users
+
 [bit](https://github.com/chriswalz/bit): Bit is a modern Git CLI
 
 [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp): Learn C and build your own programming language in under 1000 lines of code!
@@ -17,13 +21,19 @@
 
 [first-contributions](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects
 
+[FLIF](https://github.com/FLIF-hub/FLIF): Free Lossless Image Format
+
 [flowchart-fun](https://github.com/tone-row/flowchart-fun): A small app for making quick flowcharts from text
 
 [libaco](https://github.com/hnes/libaco): A blazing fast and lightweight C asymmetric coroutine library
 
 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 
+[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration.
+
 [picojs](https://github.com/nenadmarkus/picojs): A face detection library in 200 lines of JavaScript
+
+[project-based-learning](https://github.com/tuvtran/project-based-learning): Curated list of project-based tutorials
 
 [python-gems](https://github.com/RealHacker/python-gems): Beautifully constructed python scripts
 
