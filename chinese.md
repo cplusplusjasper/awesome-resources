@@ -9,6 +9,8 @@
 
 [awesome-programming-books](https://github.com/jobbole/awesome-programming-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
+[bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程。
+
 [chinese_docker](https://github.com/widuu/chinese_docker): docker中文文档
 
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 中国独立开发者项目列表 -- 分享大家都在做什么
@@ -72,6 +74,8 @@
 [musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
 
 [MyBookshelf](https://github.com/gedoor/MyBookshelf): 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+[notepanda](https://github.com/ChungZH/notepanda): A simple cross-platform notepad. Based on Qt and C++.
 
 [opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials): 社区维护的OpenGL教程网站
 

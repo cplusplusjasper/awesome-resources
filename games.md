@@ -5,6 +5,8 @@
 
 [basic-computer-games](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 
+[DungeonRush](https://github.com/Rapiz1/DungeonRush): A opensource game inspired by Snake, written in pure C with SDL
+
 [game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
 
 [games](https://github.com/leereilly/games): A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform.
