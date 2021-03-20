@@ -27,6 +27,8 @@
 
 [Data-Structure](https://github.com/kangjianwei/Data-Structure): 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
 
+[ddia](https://vonng.gitbooks.io/ddia-cn/content/): DDIA中文翻译 - [源码](https://github.com/Vonng/ddia)
+
 [Document](https://github.com/FangWW/Document): 各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验)
 
 [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
@@ -73,6 +75,8 @@
 
 [ShiYanLou](https://github.com/Ewenwan/ShiYanLou): 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机 linux 面试
 
+[simple_os_book](https://github.com/chyyuu/simple_os_book): 操作系统的基本原理与简单实现
+
 [SimpleKernel](https://github.com/Simple-XX/SimpleKernel): 用于学习操作系统的简单内核
 
 [sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
@@ -80,6 +84,8 @@
 [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC): 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
 
 [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July): 编程之法：面试和算法心得
+
+[The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation): 对 The Hacker Playbook 3 的翻译。
 
 [think-os-zh](https://github.com/wizardforcel/think-os-zh): 操作系统思考
 
