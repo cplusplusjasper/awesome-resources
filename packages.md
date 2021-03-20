@@ -1,6 +1,4 @@
 ## Pakcages
-[baulk](https://github.com/baulk/baulk): Minimal Package Manager for Windows
-
 [calculator](https://github.com/microsoft/calculator): Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer): CUDA Voxelizer to convert polygon meshes into annotated voxel grids

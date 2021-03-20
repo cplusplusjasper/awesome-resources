@@ -1,4 +1,8 @@
 ## Tools
+[baulk](https://github.com/baulk/baulk): Minimal Package Manager for Windows
+
+[choco](https://github.com/chocolatey/choco): Chocolatey - the package manager for Windows
+
 [CMake](https://github.com/Kitware/CMake): a cross-platform, open-source build system generator.
 
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
