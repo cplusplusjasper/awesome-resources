@@ -11,6 +11,8 @@
 
 [chinese_docker](https://github.com/widuu/chinese_docker): docker中文文档
 
+[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 中国独立开发者项目列表 -- 分享大家都在做什么
+
 [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools): Chrome开发者工具中文手册
 
 [community](https://github.com/cosen1024/community): 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
@@ -59,9 +61,11 @@
 
 [markdown-simple-world](https://github.com/wizardforcel/markdown-simple-world):  Markdown·简单的世界
 
+[MyBookshelf](https://github.com/gedoor/MyBookshelf): 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
 [opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials): 社区维护的OpenGL教程网站
 
-[MyBookshelf](https://github.com/gedoor/MyBookshelf): 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+[pacman](https://github.com/mumuy/pacman): 基于HTML5的吃豆人游戏 - 经典游戏开发样例
 
 [practical-programming-books](https://github.com/EZLippi/practical-programming-books): 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
 

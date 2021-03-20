@@ -15,6 +15,8 @@
 
 [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer
 
+[istc](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html): Introduction to High-Performance Scientific Computing
+
 [learn-regex](https://github.com/ziishaned/learn-regex): Learn regex the easy way
 
 [linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel

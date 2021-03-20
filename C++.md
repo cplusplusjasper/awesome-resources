@@ -35,6 +35,8 @@
 
 [oneTBB](https://github.com/oneapi-src/oneTBB): oneAPI Threading Building Blocks (oneTBB)
 
+[pprint](https://github.com/p-ranav/pprint): Pretty Printer for Modern C++
+
 [serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System
 
 [Sogou C++ Workflow](https://github.com/sogou/workflow): C++ Parallel Computing and Asynchronous Networking Engine

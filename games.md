@@ -1,4 +1,6 @@
 ## Games
+[2048.cpp](https://github.com/plibither8/2048.cpp): Fully featured terminal version of the game "2048" written in C++
+
 [basic-computer-games](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 
 [game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
