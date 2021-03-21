@@ -15,6 +15,8 @@
 
 [Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 
+[fast_obj](https://github.com/thisistherk/fast_obj): Fast C OBJ parser
+
 [FreeCAD](https://github.com/FreeCAD/FreeCAD): a free and opensource multiplatform 3D parametric modeler.
 
 [fTetWild](https://github.com/wildmeshing/fTetWild): Fast Tetrahedral Meshing in the Wild
@@ -68,6 +70,8 @@
 [QuadriFlow](https://github.com/hjwdzh/QuadriFlow): A Scalable and Robust Method for Quadrangulation
 
 [SeismicMesh](https://github.com/krober10nd/SeismicMesh): 2D/3D serial and parallel triangular mesh generation tool for finite element methods.
+
+[spline](https://github.com/ttk592/spline): c++ cubic spline library
 
 [tetgen](https://github.com/ufz/tetgen): a clone of "A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator" [tetgen](http://www.wias-berlin.de/software/index.jsp?id=TetGen&lang=1)
 

@@ -9,6 +9,8 @@
 
 [awesome-programming-books](https://github.com/jobbole/awesome-programming-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
+[AwesomeCpp](https://github.com/nwpuhq/AwesomeCpp): C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等，还新添了其他算法和计算机基础的难点，力求简洁清晰
+
 [bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程。
 
 [chinese_docker](https://github.com/widuu/chinese_docker): docker中文文档
