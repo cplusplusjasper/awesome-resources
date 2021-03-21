@@ -69,6 +69,8 @@
 
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
+[Python](https://github.com/geekcomputers/Python): This document helps to understand python in details.
+
 [PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
 
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python

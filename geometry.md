@@ -33,6 +33,8 @@
 
 [MathGeoLib](https://github.com/juj/MathGeoLib): A C++ library for linear algebra and geometry manipulation for computer graphics.
 
+[meshio](https://github.com/nschloe/meshio): input/output for many mesh formats
+
 [meshlab](https://github.com/cnr-isti-vclab/meshlab): The open source mesh processing system
 
 [meshpy](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
@@ -59,6 +61,10 @@
 
 [pygmsh](https://github.com/nschloe/pygmsh): Gmsh for Python
 
+[pyvista](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+
+[qhull](https://github.com/qhull/qhull): Qhull is a general dimension code for computing convex hulls, Delaunay triangulations, halfspace intersections about a point, Voronoi diagrams, furthest-site Delaunay triangulations, and furthest-site Voronoi diagrams.
+
 [QuadriFlow](https://github.com/hjwdzh/QuadriFlow): A Scalable and Robust Method for Quadrangulation
 
 [SeismicMesh](https://github.com/krober10nd/SeismicMesh): 2D/3D serial and parallel triangular mesh generation tool for finite element methods.
@@ -70,5 +76,7 @@
 [tinynurbs](https://github.com/pradeep-pyro/tinynurbs): C++ library for NURBS curves and surfaces
 
 [tinyspline](https://github.com/msteinbeck/tinyspline): ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Lua, Octave, PHP, Python, R, and Ruby.
+
+[ttk](https://github.com/topology-tool-kit/ttk): Topological Data Analysis and Visualization
 
 [vcglib](https://github.com/cnr-isti-vclab/vcglib): The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes

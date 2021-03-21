@@ -39,4 +39,6 @@
 
 [tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
 
+[tikzplotlib](https://github.com/nschloe/tikzplotlib): Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
+
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs

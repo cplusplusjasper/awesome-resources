@@ -49,6 +49,8 @@
 
 [github](https://github.com/phodal/github): GitHub 漫游指南
 
+[GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts): GitHub中文排行榜
+
 [growth-ebook](https://github.com/phodal/growth-ebook): 全栈增长工程师指南
 
 [hello-algorithm](https://github.com/geekxh/hello-algorithm): 针对小白的算法训练
