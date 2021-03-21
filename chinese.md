@@ -19,6 +19,8 @@
 
 [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 
+[chinessChess](https://github.com/xmuli/chinessChess): Cross-platform and online battle platform game based on Qt: Chinese Chess
+
 [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools): Chrome开发者工具中文手册
 
 [community](https://github.com/cosen1024/community): 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
@@ -37,9 +39,13 @@
 
 [ddia](https://vonng.gitbooks.io/ddia-cn/content/): DDIA中文翻译 - [源码](https://github.com/Vonng/ddia)
 
+[DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions): 深度学习500问
+
 [Document](https://github.com/FangWW/Document): 各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验)
 
 [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
+
+[FlappyBird](https://github.com/kingyuluk/FlappyBird): 基于Java基础类库编写的Flappy Bird
 
 [free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 

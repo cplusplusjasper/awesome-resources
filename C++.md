@@ -25,7 +25,9 @@
 
 [googletest](https://github.com/google/googletest): Google Testing and Mocking Framework
 
-[HTML++](https://github.com/csb6/html-plus-plus): Write HTML using C++ templates
+[GuiLite](https://github.com/idea4good/GuiLite): The smallest header-only GUI library(4 KLOC) for all platforms
+
+[html-plus-plus](https://github.com/csb6/html-plus-plus): Write HTML using C++ templates
 
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 

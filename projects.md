@@ -25,6 +25,8 @@
 
 [flowchart-fun](https://github.com/tone-row/flowchart-fun): A small app for making quick flowcharts from text
 
+[LCUI](https://github.com/lc-soft/LCUI): A small C library for building user interfaces with C, XML and CSS.
+
 [libaco](https://github.com/hnes/libaco): A blazing fast and lightweight C asymmetric coroutine library
 
 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
@@ -35,7 +37,11 @@
 
 [project-based-learning](https://github.com/tuvtran/project-based-learning): Curated list of project-based tutorials
 
+[project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
+
 [python-gems](https://github.com/RealHacker/python-gems): Beautifully constructed python scripts
+
+[taichi](https://github.com/taichi-dev/taichi): Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 
 [tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
 

@@ -21,6 +21,8 @@
 
 [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
 
+[computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
+
 [dash](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 
 [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP
@@ -38,6 +40,8 @@
 [freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree 
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+[git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 
 [gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 
@@ -66,6 +70,8 @@
 [OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
 
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
+
+[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): A collection of pure bash alternatives to external processes.
 
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 

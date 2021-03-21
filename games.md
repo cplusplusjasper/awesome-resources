@@ -7,7 +7,13 @@
 
 [basic-computer-games](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 
+[CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+
+[css-sweeper](https://github.com/propjockey/css-sweeper): MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
+
 [DungeonRush](https://github.com/Rapiz1/DungeonRush): A opensource game inspired by Snake, written in pure C with SDL
+
+[free-python-games](https://github.com/grantjenks/free-python-games): Free Python Games
 
 [game-programmer](https://github.com/miloyip/game-programmer): A Study Path for Game Programmer
 
@@ -16,6 +22,8 @@
 [godot](https://github.com/godotengine/godot): Multi-platform 2D and 3D game engine
 
 [lila](https://github.com/ornicar/lila): lichess.org: the forever free, adless and open source chess server
+
+[Mindustry](https://github.com/Anuken/Mindustry): A sandbox tower defense game
 
 [opengametools](https://github.com/jpaver/opengametools): A set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader.
 
