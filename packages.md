@@ -7,6 +7,8 @@
 
 [gnuplot](http://www.gnuplot.info/): a portable command-line driven graphing utility
 
+[inviwo](https://github.com/inviwo/inviwo): Interactive Visualization Workshop
+
 [ParaView](https://github.com/Kitware/ParaView): VTK-based Data Analysis and Visualization Application
 
 [SandDance](https://github.com/microsoft/SandDance): Visually explore, understand, and present your data.

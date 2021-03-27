@@ -15,6 +15,8 @@
 
 [dbg-macro](https://github.com/sharkdp/dbg-macro): A dbg(…) macro for C++
 
+[delfem2](https://github.com/nobuyuki83/delfem2): Research prototyping framework for physics simulation written in C++
+
 [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp): C++ Design Patterns
 
 [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): his is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
@@ -32,6 +34,8 @@
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
 [json](https://github.com/nlohmann/json): JSON for Modern C++
+
+[kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 
 [nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
 

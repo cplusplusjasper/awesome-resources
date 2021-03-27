@@ -13,6 +13,10 @@
 
 [bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程。
 
+[Cgame](https://github.com/RainbowRoad1/Cgame): 一些用C编写的小游戏, 14行贪吃蛇 22行2048 22行俄罗斯方块 25行扫雷...以及各种小玩意
+
+[Cgames](https://github.com/yh1094632455/Cgames): c语言经典200多个有趣的程序和游戏
+
 [chinese_docker](https://github.com/widuu/chinese_docker): docker中文文档
 
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer): 中国独立开发者项目列表 -- 分享大家都在做什么
@@ -134,6 +138,9 @@
 [wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言
 
 [windows-apps-that-amaze-us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/en)
+
+[winter](https://github.com/404name/winter):
+2020上半年超长寒假呆家学习了半年C语言(大一下)的时候写的一些小游戏/小程序，那时候觉得用C从零开始模拟一些东西挺有趣，就没有参考其他教程或者游戏，通过自己思考用基础语法写出了这些写代码，规范性只能说是相当于我大一的标准，欢迎分享，学习和交流
 
 [wukong](https://github.com/huichen/wukong): 高度可定制的全文搜索引擎
 

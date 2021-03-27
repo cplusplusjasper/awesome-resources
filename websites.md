@@ -31,6 +31,8 @@
 
 [elasty](https://github.com/yuki-koyama/elasty): A research-oriented elastic body physics simulator
 
+[elmerfem](https://github.com/ElmerCSC/elmerfem): Elmer FEM software
+
 [engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
 
 [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
@@ -46,6 +48,8 @@
 [gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 
 [hacker-laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
+
+[Handmade-Math](https://github.com/HandmadeMath/Handmade-Math): A simple math library for games and computer graphics. Compatible with both C and C++.
 
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
@@ -69,6 +73,8 @@
 
 [OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
 
+[Physics3D](https://github.com/ThePhysicsGuys/Physics3D): A 3D physics engine
+
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
 
 [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): A collection of pure bash alternatives to external processes.
@@ -76,6 +82,8 @@
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
 [Python](https://github.com/geekcomputers/Python): This document helps to understand python in details.
+
+[python-guide](https://github.com/realpython/python-guide): Python best practices guidebook, written for humans.
 
 [PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
 
@@ -88,6 +96,8 @@
 [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
 
 [styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
+
+[svFSI](https://github.com/SimVascular/svFSI): A multi-physics finite element solver for patient-specific blood flow simulation including fluid-structure interaction and cardiac electrophysiology
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
