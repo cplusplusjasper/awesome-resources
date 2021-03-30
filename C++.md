@@ -47,6 +47,8 @@
 
 [serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System
 
+[Serial-Studio](https://github.com/Serial-Studio/Serial-Studio): Multi-purpose serial data visualization & processing program
+
 [Sogou C++ Workflow](https://github.com/sogou/workflow): C++ Parallel Computing and Asynchronous Networking Engine
 
 [spdlog](https://github.com/gabime/spdlog): Very fast, header-only/compiled, C++ logging library.

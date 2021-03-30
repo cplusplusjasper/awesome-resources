@@ -27,6 +27,8 @@
 
 [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP
 
+[Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac in a Docker!
+
 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
 
 [elasty](https://github.com/yuki-koyama/elasty): A research-oriented elastic body physics simulator
@@ -60,6 +62,10 @@
 [linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
 
 [linux](https://github.com/torvalds/linux): Linux kernel source tree
+
+[lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
+
+[Marlin](https://github.com/MarlinFirmware/Marlin): Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.
 
 [material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google
 
@@ -100,6 +106,10 @@
 [svFSI](https://github.com/SimVascular/svFSI): A multi-physics finite element solver for patient-specific blood flow simulation including fluid-structure interaction and cardiac electrophysiology
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+[tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad!
+
+[what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 [zdict](https://github.com/zdict/zdict): The last online dictionary framework you need.
 

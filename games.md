@@ -23,9 +23,13 @@
 
 [lila](https://github.com/ornicar/lila): lichess.org: the forever free, adless and open source chess server
 
+[MarioHTML](https://github.com/nbarkhina/MarioHTML): an iconic game written in TypeScript
+
 [Mindustry](https://github.com/Anuken/Mindustry): A sandbox tower defense game
 
 [opengametools](https://github.com/jpaver/opengametools): A set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader.
+
+[osu](https://github.com/ppy/osu): rhythm is just a *click* away!
 
 [ozz-animation](https://github.com/guillaumeblanc/ozz-animation): Open source c++ skeletal animation library and toolset
 
@@ -34,6 +38,8 @@
 [pyxel](https://github.com/kitao/pyxel): A retro game engine for Python
 
 [QuickDraw](https://github.com/uvipen/QuickDraw): Implementation of Quickdraw - an online game developed by Google
+
+[si78c](https://github.com/loadzero/si78c): a memory accurate reimplementation of Space Invaders in C.
 
 [SpartanEngine](https://github.com/PanosK92/SpartanEngine): Game engine with an emphasis on architectual quality and performance
 
