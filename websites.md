@@ -3,7 +3,13 @@
 
 [app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
 
+[awesome](https://github.com/sindresorhus/awesome): Awesome lists about all kinds of interesting topics
+
+[Awesome](https://github.com/Awesome-Windows/Awesome): An awesome & curated list of best applications and tools for Windows.
+
 [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas): List of awesome app ideas
+
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 

@@ -5,6 +5,8 @@
 
 [cinolib](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
 
+[CloudCompare](https://github.com/CloudCompare/CloudCompare): CloudCompare is a 3D point cloud (and triangular mesh) processing software.
+
 [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer): CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 
 [delaunator](https://github.com/mapbox/delaunator): An incredibly fast JavaScript library for Delaunay triangulation of 2D points

@@ -7,6 +7,8 @@
 
 [Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 
+[CCCoreLib](https://github.com/CloudCompare/CCCoreLib): C++ library which provides data structures & algorithms for working with 3D point cloud data
+
 [conan](https://github.com/conan-io/conan): The open-source C/C++ package manager
 
 [conan-center-index](https://github.com/conan-io/conan-center-index): Recipes for the ConanCenter repository
