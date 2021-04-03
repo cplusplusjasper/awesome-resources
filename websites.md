@@ -7,6 +7,8 @@
 
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
+[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources): A collection of hacking / penetration testing resources to make you better!
+
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -50,6 +52,8 @@
 [gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 
 [hacker-laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
+
+[hacking-resources](https://github.com/Lifka/hacking-resources): Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math): A simple math library for games and computer graphics. Compatible with both C and C++.
 

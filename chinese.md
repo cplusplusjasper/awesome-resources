@@ -3,6 +3,8 @@
 
 [30min_guides](https://github.com/qinjx/30min_guides): 各种几十分钟入门的文档
 
+[AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary Algorithms and Data structures
+
 [Android](https://github.com/open-android/Android): GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 
 [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件

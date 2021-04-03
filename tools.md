@@ -27,6 +27,8 @@
 
 [PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
+[shellcheck](https://github.com/koalaman/shellcheck): a static analysis tool for shell scripts
+
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
 
 [tmux](https://github.com/tmux/tmux): tmux source code
