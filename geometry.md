@@ -35,6 +35,8 @@
 
 [instant-meshes](https://github.com/wjakob/instant-meshes): Interactive field-aligned mesh generator
 
+[libigl](https://github.com/libigl/libigl): Simple C++ geometry processing library.
+
 [MathGeoLib](https://github.com/juj/MathGeoLib): A C++ library for linear algebra and geometry manipulation for computer graphics.
 
 [meshio](https://github.com/nschloe/meshio): input/output for many mesh formats
