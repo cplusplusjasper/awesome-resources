@@ -33,6 +33,10 @@
 
 [gptoolbox](https://github.com/alecjacobson/gptoolbox): Matlab toolbox for Geometry Processing.
 
+[im3d](https://github.com/john-chapman/im3d): Immediate mode rendering and 3d gizmos.
+
+[ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo): Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+
 [instant-meshes](https://github.com/wjakob/instant-meshes): Interactive field-aligned mesh generator
 
 [libigl](https://github.com/libigl/libigl): Simple C++ geometry processing library.

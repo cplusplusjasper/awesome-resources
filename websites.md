@@ -19,6 +19,8 @@
 
 [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
+[awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
@@ -66,6 +68,8 @@
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math): A simple math library for games and computer graphics. Compatible with both C and C++.
 
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
+
+[iptv](https://github.com/iptv-org/iptv): Collection of 5000+ publicly available IPTV channels from all over the world
 
 [Javascript](https://github.com/TheAlgorithms/Javascript): A repository for All algorithms implemented in Javascript
 
