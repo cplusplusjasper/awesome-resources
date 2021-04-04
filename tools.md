@@ -33,6 +33,8 @@
 
 [tmux](https://github.com/tmux/tmux): tmux source code
 
+[uncrustify](https://github.com/uncrustify/uncrustify): Code beautifier
+
 [Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 
 [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap): Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim

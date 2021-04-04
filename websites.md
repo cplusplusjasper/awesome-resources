@@ -49,7 +49,9 @@
 
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 
-[freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree 
+[freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree
+
+[FreeFem-sources](https://github.com/FreeFem/FreeFem-sources): FreeFEM is a partial differential equation solver for non-linear multi-physics systems in 2D and 3D using the finite element method.
 
 [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
