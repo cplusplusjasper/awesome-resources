@@ -15,6 +15,8 @@
 
 [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet): C++ Syntax, Data Structures, and Algorithms
 
+[Cpp-Primer](https://github.com/Mooophy/Cpp-Primer): C++ Primer 5 answers
+
 [cprimer](https://github.com/andycai/cprimer): C/C++ Primer
 
 [dbg-macro](https://github.com/sharkdp/dbg-macro): A dbg(…) macro for C++

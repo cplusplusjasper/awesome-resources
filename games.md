@@ -23,6 +23,8 @@
 
 [lila](https://github.com/ornicar/lila): lichess.org: the forever free, adless and open source chess server
 
+[magnum](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
+
 [MarioHTML](https://github.com/nbarkhina/MarioHTML): an iconic game written in TypeScript
 
 [Mindustry](https://github.com/Anuken/Mindustry): A sandbox tower defense game

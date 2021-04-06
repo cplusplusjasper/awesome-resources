@@ -29,6 +29,8 @@
 
 [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction): Introductory assignment for Geometry Processing course
 
+[gismo](https://github.com/gismo/gismo): G+Smo (pronounced gismo or gizmo) is a C++ library for isogeometric analysis (IGA). Geometry plus simulation modules aims at the seamless integration of Computer-aided Design (CAD) and Finite Element Analysis (FEA).
+
 [gmsh](http://gmsh.info/): A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities - [Source](https://gitlab.onelab.info/gmsh/gmsh)
 
 [gptoolbox](https://github.com/alecjacobson/gptoolbox): Matlab toolbox for Geometry Processing.
