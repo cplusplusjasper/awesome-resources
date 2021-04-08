@@ -21,6 +21,8 @@
 
 [FreeCAD](https://github.com/FreeCAD/FreeCAD): a free and opensource multiplatform 3D parametric modeler.
 
+[fstl](https://github.com/fstl-app/fstl): The fastest STL file viewer
+
 [fTetWild](https://github.com/wildmeshing/fTetWild): Fast Tetrahedral Meshing in the Wild
 
 [GeometricTools](https://github.com/davideberly/GeometricTools): A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
@@ -40,6 +42,8 @@
 [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo): Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
 [instant-meshes](https://github.com/wjakob/instant-meshes): Interactive field-aligned mesh generator
+
+[libfive](https://github.com/libfive/libfive): Infrastructure for solid modeling
 
 [libigl](https://github.com/libigl/libigl): Simple C++ geometry processing library.
 

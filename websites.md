@@ -19,6 +19,8 @@
 
 [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
+[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
+
 [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
@@ -32,6 +34,10 @@
 [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
 
 [computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
+
+[core](https://github.com/home-assistant/core): Open source home automation that puts local control and privacy first
+
+[cypress](https://github.com/cypress-io/cypress): Fast, easy and reliable testing for anything that runs in a browser.
 
 [dash](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 
@@ -94,6 +100,8 @@
 [ngsolve](https://github.com/NGSolve/ngsolve): Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics.
 
 [OpenDrop](https://github.com/GaudiLabs/OpenDrop): Open Source Digital Microfluidics Bio Lab
+
+[oppia](https://github.com/oppia/oppia): A free, online learning platform to make quality education accessible for all.
 
 [Physics3D](https://github.com/ThePhysicsGuys/Physics3D): A 3D physics engine
 

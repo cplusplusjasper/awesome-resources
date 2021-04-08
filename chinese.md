@@ -75,6 +75,8 @@
 
 [json-tutorial](https://github.com/miloyip/json-tutorial): 从零开始的 JSON 库教程
 
+[kys-cpp](https://github.com/scarsty/kys-cpp): 《金庸群侠传》c++复刻版，已完工
+
 [Learning-SICP](https://github.com/DeathKing/Learning-SICP): MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
