@@ -73,6 +73,8 @@
 
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math): A simple math library for games and computer graphics. Compatible with both C and C++.
 
+[HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning): Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
+
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
 [iptv](https://github.com/iptv-org/iptv): Collection of 5000+ publicly available IPTV channels from all over the world
@@ -123,6 +125,8 @@
 
 [scaffold-eth](https://github.com/austintgriffith/scaffold-eth):  forkable Ethereum dev stack focused on fast product iterations
 
+[SLIDE](https://github.com/RUSH-LAB/SLIDE): all updates to SLIDE Project
+
 [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
 
 [styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
@@ -134,6 +138,10 @@
 [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad!
 
 [what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+[wuffs](https://github.com/google/wuffs): a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely.
+
+[You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI): Stop relying on GUI; CLI **ROCKS**
 
 [zdict](https://github.com/zdict/zdict): The last online dictionary framework you need.
 
