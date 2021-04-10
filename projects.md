@@ -47,6 +47,8 @@
 
 [tikzplotlib](https://github.com/nschloe/tikzplotlib): Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
 
+[uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
 [vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and numpy
 
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs

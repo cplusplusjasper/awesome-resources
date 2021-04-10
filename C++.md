@@ -17,6 +17,8 @@
 
 [Cpp-Primer](https://github.com/Mooophy/Cpp-Primer): C++ Primer 5 answers
 
+[CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+
 [cprimer](https://github.com/andycai/cprimer): C/C++ Primer
 
 [dbg-macro](https://github.com/sharkdp/dbg-macro): A dbg(…) macro for C++
