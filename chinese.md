@@ -105,6 +105,8 @@
 
 [Programming_learning_resource]https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
 
+[PyQt](https://github.com/PyQt5/PyQt): PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
+
 [Python-100-Days](https://github.com/jackfrued/Python-100-Days): Python - 100天从新手到大师
 
 [react-tetris](https://github.com/chvin/react-tetris): Use React, Redux, Immutable to code Tetris.

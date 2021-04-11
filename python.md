@@ -3,7 +3,13 @@
 
 [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Free software that works great, and also happens to be open-source Python.
 
+[fbs](https://github.com/mherrmann/fbs): Create Python GUIs with Qt in minutes
+
+[flexx](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
+
 [handcalcs](https://github.com/connorferster/handcalcs): Python library for converting Python calculations into rendered latex.
+
+[lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
 
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
@@ -16,6 +22,8 @@
 [PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
 
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
+
+[Ryven](https://github.com/leon-thomm/Ryven): Flow-based visual scripting for Python
 
 [speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 

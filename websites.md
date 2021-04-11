@@ -89,8 +89,6 @@
 
 [linux](https://github.com/torvalds/linux): Linux kernel source tree
 
-[lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
-
 [Marlin](https://github.com/MarlinFirmware/Marlin): Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.
 
 [material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google

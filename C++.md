@@ -39,6 +39,8 @@
 
 [html-plus-plus](https://github.com/csb6/html-plus-plus): Write HTML using C++ templates
 
+[imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
 [json](https://github.com/nlohmann/json): JSON for Modern C++
