@@ -15,6 +15,10 @@
 
 [dmsh](https://github.com/nschloe/dmsh): Simple mesh generator inspired by distmesh.
 
+[earcut](https://github.com/mapbox/earcut): The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
+
+[earcut.hpp](https://github.com/mapbox/earcut.hpp): Fast, header-only polygon triangulation
+
 [Easy3D](https://github.com/LiangliangNan/Easy3D): A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 
 [fast_obj](https://github.com/thisistherk/fast_obj): Fast C OBJ parser

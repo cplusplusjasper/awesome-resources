@@ -7,6 +7,8 @@
 
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
 
+[dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
+
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
 
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text

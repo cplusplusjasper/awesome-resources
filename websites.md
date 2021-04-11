@@ -57,6 +57,8 @@
 
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 
+[flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
 [freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree
 
 [FreeFem-sources](https://github.com/FreeFem/FreeFem-sources): FreeFEM is a partial differential equation solver for non-linear multi-physics systems in 2D and 3D using the finite element method.
@@ -110,16 +112,6 @@
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
 
 [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): A collection of pure bash alternatives to external processes.
-
-[pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
-
-[Python](https://github.com/geekcomputers/Python): This document helps to understand python in details.
-
-[python-guide](https://github.com/realpython/python-guide): Python best practices guidebook, written for humans.
-
-[PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
-
-[quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
 
 [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
 

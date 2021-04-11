@@ -7,6 +7,8 @@ A curated list of online resouces, most of them are on github.
 
 ## [C++](C++.md)
 
+## [Python](python.md)
+
 ## [Geometry](geometry.md)
 
 ## [Editors](editors.md)

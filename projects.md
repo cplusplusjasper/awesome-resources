@@ -1,11 +1,8 @@
 ## Projects
-[15-minute-apps](https://github.com/learnpyqt/15-minute-apps): 15 minute (small) desktop apps built with PyQt
 
 [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code
-
-[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Free software that works great, and also happens to be open-source Python.
 
 [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users
 
@@ -39,8 +36,6 @@
 
 [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
 
-[python-gems](https://github.com/RealHacker/python-gems): Beautifully constructed python scripts
-
 [taichi](https://github.com/taichi-dev/taichi): Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 
 [tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
@@ -48,7 +43,5 @@
 [tikzplotlib](https://github.com/nschloe/tikzplotlib): Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
 
 [uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-[vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and numpy
 
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs
