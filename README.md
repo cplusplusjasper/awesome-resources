@@ -27,6 +27,7 @@ A curated list of online resouces, most of them are on github.
 
 ## Donation
 Any amount of the donations will be highly appreciated.
+
 ![QRCode](QRCode.png "QRCode")
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
