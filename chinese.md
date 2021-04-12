@@ -51,6 +51,8 @@
 
 [design_patterns](https://github.com/me115/design_patterns): 图说设计模式
 
+[FeelUOwn](https://github.com/feeluown/FeelUOwn): 一个符合 Unix 哲学的跨平台的音乐播放器
+
 [FlappyBird](https://github.com/kingyuluk/FlappyBird): 基于Java基础类库编写的Flappy Bird
 
 [free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍

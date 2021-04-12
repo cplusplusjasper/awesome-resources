@@ -44,4 +44,6 @@
 
 [uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
+[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
 [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs
