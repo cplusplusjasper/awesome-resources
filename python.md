@@ -3,6 +3,8 @@
 
 [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Free software that works great, and also happens to be open-source Python.
 
+[CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python): Cracking the Coding Interview 6th Ed. Python Solutions
+
 [fbs](https://github.com/mherrmann/fbs): Create Python GUIs with Qt in minutes
 
 [flexx](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
