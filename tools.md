@@ -23,6 +23,8 @@
 
 [nushell](https://github.com/nushell/nushell): A new type of shell
 
+[nx](https://github.com/nrwl/nx): Powerful, Extensible Dev Tools
+
 [perfview](https://github.com/microsoft/perfview): PerfView is a free performance-analysis tool that helps isolate CPU and memory-related performance issues.
 
 [PowerShell](https://github.com/PowerShell/PowerShell): a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.

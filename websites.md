@@ -23,6 +23,8 @@
 
 [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
+[awesome-web-effect](https://github.com/lindelof/awesome-web-effect): A series of exquisite and compact web page cool effects
+
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
@@ -85,6 +87,8 @@
 
 [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
+[LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions): (Weekly Update) Python / Modern C++ Solutions of LeetCode Problems
+
 [linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
 
 [linux](https://github.com/torvalds/linux): Linux kernel source tree
@@ -126,6 +130,8 @@
 [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad!
+
+[tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
 [what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 

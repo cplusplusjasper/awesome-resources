@@ -75,6 +75,8 @@
 
 [JavaBooks](https://github.com/itwanger/JavaBooks): Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
 
+[JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm): 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+
 [json-tutorial](https://github.com/miloyip/json-tutorial): 从零开始的 JSON 库教程
 
 [kys-cpp](https://github.com/scarsty/kys-cpp): 《金庸群侠传》c++复刻版，已完工

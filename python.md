@@ -13,6 +13,8 @@
 
 [lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
 
+[noteshrink](https://github.com/mzucker/noteshrink): Convert scans of handwritten notes to beautiful, compact PDFs
+
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
 [Python](https://github.com/geekcomputers/Python): This document helps to understand python in details.
@@ -26,6 +28,8 @@
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
 
 [Ryven](https://github.com/leon-thomm/Ryven): Flow-based visual scripting for Python
+
+[scikit-learn](https://github.com/scikit-learn/scikit-learn): machine learning in Python
 
 [speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 

@@ -16,6 +16,8 @@
 
 [dolt](https://github.com/dolthub/dolt): It's Git for Data
 
+[fawkes](https://github.com/Shawn-Shan/fawkes): Fawkes, privacy preserving tool against facial recognition systems.
+
 [first-contributions](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects
 
 [FLIF](https://github.com/FLIF-hub/FLIF): Free Lossless Image Format
@@ -36,11 +38,15 @@
 
 [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
 
+[Serial-Studio](https://github.com/Serial-Studio/Serial-Studio): Multi-purpose serial data visualization & processing program
+
 [taichi](https://github.com/taichi-dev/taichi): Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 
 [tbox](https://github.com/tboox/tbox): A glib-like multi-platform c library
 
 [tikzplotlib](https://github.com/nschloe/tikzplotlib): Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
+
+[transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 
 [uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 

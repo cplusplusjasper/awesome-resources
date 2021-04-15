@@ -21,6 +21,8 @@
 
 [godot](https://github.com/godotengine/godot): Multi-platform 2D and 3D game engine
 
+[halley](https://github.com/amzeratul/halley): A lightweight game engine written in modern C++
+
 [lila](https://github.com/ornicar/lila): lichess.org: the forever free, adless and open source chess server
 
 [magnum](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
