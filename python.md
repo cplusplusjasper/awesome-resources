@@ -3,6 +3,8 @@
 
 [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications): Free software that works great, and also happens to be open-source Python.
 
+[chia-blockchain](https://github.com/Chia-Network/chia-blockchain): Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
+
 [CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python): Cracking the Coding Interview 6th Ed. Python Solutions
 
 [fbs](https://github.com/mherrmann/fbs): Create Python GUIs with Qt in minutes
