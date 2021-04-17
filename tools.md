@@ -3,15 +3,21 @@
 
 [choco](https://github.com/chocolatey/choco): Chocolatey - the package manager for Windows
 
+[cli](https://github.com/cli/cli): GitHub’s official command line tool
+
 [CMake](https://github.com/Kitware/CMake): a cross-platform, open-source build system generator.
 
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
 
 [dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 
+[ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list): A guide to available tools and platforms for developing on Ethereum.
+
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
 
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
+
+[explorerplusplus](https://github.com/derceg/explorerplusplus): Explorer++ is a lightweight and fast file manager for Windows
 
 [Files](https://github.com/files-community/Files): A modern file explorer that pushes the boundaries of the platform.
 
@@ -31,11 +37,15 @@
 
 [PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
+[rtty](https://github.com/zhaojh329/rtty): Access your terminal from anywhere via the web.
+
 [shellcheck](https://github.com/koalaman/shellcheck): a static analysis tool for shell scripts
 
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
 
 [tmux](https://github.com/tmux/tmux): tmux source code
+
+[tools-list](https://github.com/everestpipkin/tools-list): Open source, experimental, and tiny tools roundup
 
 [uncrustify](https://github.com/uncrustify/uncrustify): Code beautifier
 

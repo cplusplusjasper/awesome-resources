@@ -3,6 +3,8 @@
 
 [500lines](https://github.com/aosabook/500lines): 500 Lines or Less
 
+[bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source
+
 [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action)

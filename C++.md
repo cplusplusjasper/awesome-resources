@@ -29,6 +29,8 @@
 
 [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): his is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 
+[flashlight](https://github.com/flashlight/flashlight): A C++ standalone library for machine learning
+
 [fmt](https://github.com/fmtlib/fmt): A modern formatting library
 
 [folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.

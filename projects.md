@@ -28,6 +28,8 @@
 
 [libaco](https://github.com/hnes/libaco): A blazing fast and lightweight C asymmetric coroutine library
 
+[llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 
 [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration.

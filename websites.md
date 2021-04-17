@@ -13,6 +13,8 @@
 
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
+[awesome-gtk](https://github.com/unrelentingtech/awesome-gtk): List of awesome GTK+ (gtk3) applications
+
 [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources): A collection of hacking / penetration testing resources to make you better!
 
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
