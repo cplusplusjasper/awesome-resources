@@ -39,6 +39,8 @@
 
 [rtty](https://github.com/zhaojh329/rtty): Access your terminal from anywhere via the web.
 
+[scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
+
 [shellcheck](https://github.com/koalaman/shellcheck): a static analysis tool for shell scripts
 
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
@@ -52,6 +54,8 @@
 [Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 
 [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap): Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+
+[winget-cli](https://github.com/microsoft/winget-cli): Windows Package Manager CLI (aka winget)
 
 [winmerge](https://github.com/WinMerge/winmerge): WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 
