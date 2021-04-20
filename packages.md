@@ -13,6 +13,8 @@
 
 [SandDance](https://github.com/microsoft/SandDance): Visually explore, understand, and present your data.
 
+[SFML](https://github.com/SFML/SFML): Simple and Fast Multimedia Library
+
 [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): free and open-source interactive source explorer
 
 [vscode](https://github.com/microsoft/vscode): Visual Studio Code

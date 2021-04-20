@@ -49,6 +49,8 @@
 
 [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac in a Docker!
 
+[dogecoin](https://github.com/dogecoin/dogecoin): very currency
+
 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
 
 [elasty](https://github.com/yuki-koyama/elasty): A research-oriented elastic body physics simulator

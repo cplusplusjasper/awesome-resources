@@ -1,4 +1,6 @@
 ## Tools
+[bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
+
 [baulk](https://github.com/baulk/baulk): Minimal Package Manager for Windows
 
 [choco](https://github.com/chocolatey/choco): Chocolatey - the package manager for Windows
@@ -15,6 +17,8 @@
 
 [EverythingToolbar](https://github.com/stnkl/EverythingToolbar): Everything integration for the Windows taskbar.
 
+[edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 
 [explorerplusplus](https://github.com/derceg/explorerplusplus): Explorer++ is a lightweight and fast file manager for Windows
@@ -26,6 +30,8 @@
 [git](https://github.com/git/git): Git Source Code Mirror
 
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
+
+[lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 
 [nushell](https://github.com/nushell/nushell): A new type of shell
 

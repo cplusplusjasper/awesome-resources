@@ -11,6 +11,8 @@
 
 [kakoune](https://github.com/mawww/kakoune): mawww's experiment for a better code editor
 
+[kilo](https://github.com/antirez/kilo): A text editor in less than 1000 LOC with syntax highlight and search.
+
 [leo-editor](https://github.com/leo-editor/leo-editor): Leo is an Outliner, Editor, IDE and PIM written in 100% Python.
 
 [lime](https://github.com/limetext/lime): Open source API-compatible alternative to the text editor Sublime Text
