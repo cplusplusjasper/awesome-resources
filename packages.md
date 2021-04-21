@@ -9,6 +9,8 @@
 
 [inviwo](https://github.com/inviwo/inviwo): Interactive Visualization Workshop
 
+[netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right!
+
 [ParaView](https://github.com/Kitware/ParaView): VTK-based Data Analysis and Visualization Application
 
 [SandDance](https://github.com/microsoft/SandDance): Visually explore, understand, and present your data.
