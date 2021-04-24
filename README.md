@@ -1,5 +1,5 @@
 # awesome-resources
-A curated list of online resouces, most of them are on github.
+A curated list of online resouces on github and gitlab.
 
 ## [Quick start](quick-start.md)
 

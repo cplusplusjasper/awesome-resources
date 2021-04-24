@@ -43,11 +43,15 @@
 
 [imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+[include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
+
 [indicators](https://github.com/p-ranav/indicators): Activity Indicators for Modern C++
 
 [json](https://github.com/nlohmann/json): JSON for Modern C++
 
 [kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+
+[ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 
 [nanort](https://github.com/lighttransport/nanort): single header only modern ray tracing kernel.
 

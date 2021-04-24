@@ -68,3 +68,5 @@
 [xmake](https://github.com/xmake-io/xmake): A cross-platform build utility based on Lua
 
 [you-get](https://github.com/soimort/you-get):  Dumb downloader that scrapes the web
+
+[zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included

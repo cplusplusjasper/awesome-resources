@@ -99,6 +99,8 @@
 
 [tinyspline](https://github.com/msteinbeck/tinyspline): ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Lua, Octave, PHP, Python, R, and Ruby.
 
+[triangula](https://github.com/RH12503/triangula): Generate high-quality triangulated art from images.
+
 [ttk](https://github.com/topology-tool-kit/ttk): Topological Data Analysis and Visualization
 
 [vcglib](https://github.com/cnr-isti-vclab/vcglib): The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes

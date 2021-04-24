@@ -49,6 +49,8 @@
 
 [Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac in a Docker!
 
+[docs](https://github.com/github/docs): the documentation website code and Markdown source files for docs.github.com.
+
 [dogecoin](https://github.com/dogecoin/dogecoin): very currency
 
 [DualSPHysics](https://github.com/DualSPHysics/DualSPHysics): C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
@@ -126,6 +128,8 @@
 [SLIDE](https://github.com/RUSH-LAB/SLIDE): all updates to SLIDE Project
 
 [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
+
+[stlbm](https://gitlab.com/unigehpfs/stlbm): a framework for multi-threaded parallel lattice-Boltzmann simulations on multiple platforms, including many-core CPUs and GPUs, with massive efficiency.
 
 [styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
 

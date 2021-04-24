@@ -145,6 +145,8 @@
 
 [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn): Vim 从入门到精通
 
+[weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
+
 [weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 
 [wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言

@@ -43,6 +43,8 @@
 
 [QuickDraw](https://github.com/uvipen/QuickDraw): Implementation of Quickdraw - an online game developed by Google
 
+[recastnavigation](https://github.com/recastnavigation/recastnavigation): Navigation-mesh Toolset for Games
+
 [si78c](https://github.com/loadzero/si78c): a memory accurate reimplementation of Space Invaders in C.
 
 [SpartanEngine](https://github.com/PanosK92/SpartanEngine): Game engine with an emphasis on architectual quality and performance
