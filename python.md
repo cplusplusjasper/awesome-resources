@@ -15,6 +15,8 @@
 
 [lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
 
+[newspaper](https://github.com/codelucas/newspaper): News, full-text, and article metadata extraction in Python 3.
+
 [noteshrink](https://github.com/mzucker/noteshrink): Convert scans of handwritten notes to beautiful, compact PDFs
 
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python

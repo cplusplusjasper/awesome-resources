@@ -29,6 +29,8 @@
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x): Build your own (insert technology here)
+
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
 
 [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.

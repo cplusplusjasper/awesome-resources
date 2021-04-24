@@ -31,6 +31,8 @@
 
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
 
+[hyper](https://github.com/vercel/hyper): A terminal built on web technologies
+
 [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 
 [nushell](https://github.com/nushell/nushell): A new type of shell
@@ -54,6 +56,8 @@
 [tmux](https://github.com/tmux/tmux): tmux source code
 
 [tools-list](https://github.com/everestpipkin/tools-list): Open source, experimental, and tiny tools roundup
+
+[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
 
 [uncrustify](https://github.com/uncrustify/uncrustify): Code beautifier
 
