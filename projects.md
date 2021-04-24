@@ -30,6 +30,8 @@
 
 [llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+[mal](https://github.com/kanaka/mal): Make a Lisp
+
 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 
 [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration.
