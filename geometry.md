@@ -87,6 +87,8 @@
 
 [QuadriFlow](https://github.com/hjwdzh/QuadriFlow): A Scalable and Robust Method for Quadrangulation
 
+[SDFGen](https://github.com/christopherbatty/SDFGen): A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
+
 [SeismicMesh](https://github.com/krober10nd/SeismicMesh): 2D/3D serial and parallel triangular mesh generation tool for finite element methods.
 
 [spline](https://github.com/ttk592/spline): c++ cubic spline library
