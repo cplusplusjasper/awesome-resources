@@ -27,6 +27,8 @@
 
 [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial): Modern C++ Tutorial: C++11/14/17/20 On the Fly
 
+[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
+
 [progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 
 [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python Data Science Handbook: full text in Jupyter Notebooks

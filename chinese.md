@@ -135,9 +135,13 @@
 
 [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July): 编程之法：面试和算法心得
 
+[The-design-and-implementation-of-a-64-bit-os](https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os): 《一个64位操作系统的设计与实现》读书笔记&随书源码
+
 [The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation): 对 The Hacker Playbook 3 的翻译。
 
 [think-os-zh](https://github.com/wizardforcel/think-os-zh): 操作系统思考
+
+[tomato-clock](https://github.com/coolcode/tomato-clock): Pomodoro 番茄工作法
 
 [USTC-Course](https://github.com/USTC-Resource/USTC-Course): 中国科学技术大学课程资源
 

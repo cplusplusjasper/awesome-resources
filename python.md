@@ -37,4 +37,6 @@
 
 [speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 
+[vardbg](https://github.com/CCExtractor/vardbg): A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
+
 [vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and numpy

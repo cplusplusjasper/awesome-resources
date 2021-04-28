@@ -152,3 +152,5 @@
 [zdict](https://github.com/zdict/zdict): The last online dictionary framework you need.
 
 [zola](https://github.com/getzola/zola): A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
+[zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm

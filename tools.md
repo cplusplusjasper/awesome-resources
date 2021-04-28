@@ -11,6 +11,8 @@
 
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
 
+[drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
+
 [dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 
 [ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list): A guide to available tools and platforms for developing on Ethereum.
@@ -34,6 +36,9 @@
 [hyper](https://github.com/vercel/hyper): A terminal built on web technologies
 
 [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+
+
+[LIII](https://github.com/aliakseis/LIII): multi-platform bittorrent client
 
 [nushell](https://github.com/nushell/nushell): A new type of shell
 
