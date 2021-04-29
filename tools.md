@@ -31,6 +31,8 @@
 
 [git](https://github.com/git/git): Git Source Code Mirror
 
+[git-quick-stats](https://github.com/arzzen/git-quick-stats): Git quick statistics is a simple and efficient way to access various statistics in git repository.
+
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
 
 [hyper](https://github.com/vercel/hyper): A terminal built on web technologies

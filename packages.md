@@ -5,6 +5,8 @@
 
 [deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer
 
+[fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager
+
 [gnuplot](http://www.gnuplot.info/): a portable command-line driven graphing utility
 
 [inviwo](https://github.com/inviwo/inviwo): Interactive Visualization Workshop
