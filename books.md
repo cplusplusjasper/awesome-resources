@@ -13,6 +13,8 @@
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
 
+[free-python-books](https://github.com/pamoroso/free-python-books): Python books free to read online or download
+
 [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System): How to Make a Computer Operating System in C++
 
 [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer
