@@ -60,6 +60,10 @@
 
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
 
+[thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
+
+[tldr](https://github.com/tldr-pages/tldr): Collaborative cheatsheets for console commands
+
 [tmux](https://github.com/tmux/tmux): tmux source code
 
 [tools-list](https://github.com/everestpipkin/tools-list): Open source, experimental, and tiny tools roundup

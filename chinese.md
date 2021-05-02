@@ -75,6 +75,8 @@
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目
 
+[iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
+
 [JavaBooks](https://github.com/itwanger/JavaBooks): Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
 
 [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm): 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。

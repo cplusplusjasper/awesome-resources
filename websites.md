@@ -121,9 +121,13 @@
 
 [polyfem](https://github.com/polyfem/polyfem): A polyvalent C++ FEM library
 
+[popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop): Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player
+
 [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): A collection of pure bash alternatives to external processes.
 
 [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
+
+[rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 
 [scaffold-eth](https://github.com/austintgriffith/scaffold-eth):  forkable Ethereum dev stack focused on fast product iterations
 
@@ -142,6 +146,10 @@
 [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad!
 
 [tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+
+[tips](https://github.com/git-tips/tips): Most commonly used git tips and tricks.
+
+[v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
 
 [what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 

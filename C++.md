@@ -9,6 +9,8 @@
 
 [CCCoreLib](https://github.com/CloudCompare/CCCoreLib): C++ library which provides data structures & algorithms for working with 3D point cloud data
 
+[CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
+
 [conan](https://github.com/conan-io/conan): The open-source C/C++ package manager
 
 [conan-center-index](https://github.com/conan-io/conan-center-index): Recipes for the ConanCenter repository
@@ -72,5 +74,7 @@
 [taskflow](https://github.com/taskflow/taskflow): A General-purpose Parallel and Heterogeneous Task Programming System
 
 [ThreadPool](https://github.com/progschj/ThreadPool): A simple C++11 Thread Pool implementation
+
+[vcpkg](https://github.com/microsoft/vcpkg): C++ Library Manager for Windows, Linux, and MacOS
 
 [yocto-gl](https://github.com/xelatihy/yocto-gl): Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics

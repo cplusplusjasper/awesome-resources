@@ -11,6 +11,8 @@
 
 [flexx](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
 
+[gitlab-ci-python-library](https://gitlab.com/dbsystel/gitlab-ci-python-library): GitLab CI Pyhon library (GCIP) used to create a Gitlab CI Pipeline with python.
+
 [handcalcs](https://github.com/connorferster/handcalcs): Python library for converting Python calculations into rendered latex.
 
 [lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
