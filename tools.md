@@ -33,6 +33,8 @@
 
 [git-quick-stats](https://github.com/arzzen/git-quick-stats): Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
+[git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
+
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
 
 [hyper](https://github.com/vercel/hyper): A terminal built on web technologies
