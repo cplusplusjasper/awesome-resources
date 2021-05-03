@@ -135,6 +135,8 @@
 
 [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
 
+[stack-on-a-budget](https://github.com/255kb/stack-on-a-budget): A collection of services with great free tiers for developers on a budget.
+
 [stlbm](https://gitlab.com/unigehpfs/stlbm): a framework for multi-threaded parallel lattice-Boltzmann simulations on multiple platforms, including many-core CPUs and GPUs, with massive efficiency.
 
 [styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
