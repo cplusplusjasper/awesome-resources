@@ -1,4 +1,7 @@
 ## Websites
+
+[Addon](https://github.com/ClearURLs/Addon/): an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+
 [Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 [app-ideas](https://github.com/florinpop17/app-ideas): A Collection of application ideas which can be used to improve your coding skills.
@@ -12,6 +15,8 @@
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 
 [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
 
 [awesome-gtk](https://github.com/unrelentingtech/awesome-gtk): List of awesome GTK+ (gtk3) applications
 
@@ -69,6 +74,8 @@
 
 [flutter](https://github.com/flutter/flutter): Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): Learn to code for free.
+
 [freebsd-src](https://github.com/freebsd/freebsd-src): FreeBSD src tree
 
 [FreeFem-sources](https://github.com/FreeFem/FreeFem-sources): FreeFEM is a partial differential equation solver for non-linear multi-physics systems in 2D and 3D using the finite element method.
@@ -86,6 +93,8 @@
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math): A simple math library for games and computer graphics. Compatible with both C and C++.
 
 [HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning): Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
+
+[hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language. 
 
 [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
@@ -123,6 +132,8 @@
 
 [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop): Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player
 
+[public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
+
 [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): A collection of pure bash alternatives to external processes.
 
 [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os): Learning operating system development using Linux kernel and Raspberry Pi
@@ -152,6 +163,8 @@
 [tips](https://github.com/git-tips/tips): Most commonly used git tips and tricks.
 
 [v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
+
+[welcome-to-open](https://github.com/appacademy/welcome-to-open): Overview of App Academy Open
 
 [what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 

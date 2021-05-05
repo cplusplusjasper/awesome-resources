@@ -15,6 +15,8 @@
 
 [handcalcs](https://github.com/connorferster/handcalcs): Python library for converting Python calculations into rendered latex.
 
+[hy](https://github.com/hylang/hy): A dialect of Lisp that's embedded in Python
+
 [lux](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
 
 [newspaper](https://github.com/codelucas/newspaper): News, full-text, and article metadata extraction in Python 3.

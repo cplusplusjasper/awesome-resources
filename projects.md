@@ -44,6 +44,8 @@
 
 [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
 
+[Projects](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
+
 [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio): Multi-purpose serial data visualization & processing program
 
 [taichi](https://github.com/taichi-dev/taichi): Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
