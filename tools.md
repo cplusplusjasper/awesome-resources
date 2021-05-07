@@ -56,6 +56,8 @@
 
 [rtty](https://github.com/zhaojh329/rtty): Access your terminal from anywhere via the web.
 
+[rufus](https://github.com/pbatard/rufus): The Reliable USB Formatting Utility
+
 [scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 
 [shellcheck](https://github.com/koalaman/shellcheck): a static analysis tool for shell scripts
@@ -87,3 +89,5 @@
 [you-get](https://github.com/soimort/you-get):  Dumb downloader that scrapes the web
 
 [zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included
+
+[zx](https://github.com/google/zx): A tool for writing better scripts
