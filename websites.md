@@ -110,6 +110,8 @@
 
 [linux](https://github.com/torvalds/linux): Linux kernel source tree
 
+[mapscii](https://github.com/rastapasta/mapscii): MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
+
 [Marlin](https://github.com/MarlinFirmware/Marlin): Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.
 
 [material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google
@@ -143,6 +145,10 @@
 [scaffold-eth](https://github.com/austintgriffith/scaffold-eth):  forkable Ethereum dev stack focused on fast product iterations
 
 [SLIDE](https://github.com/RUSH-LAB/SLIDE): all updates to SLIDE Project
+
+[slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
+
+[solidity](https://github.com/ethereum/solidity): the Smart Contract Programming Language
 
 [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with SPADE
 

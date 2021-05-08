@@ -21,6 +21,8 @@
 
 [edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
+[emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework): Emacs application framework
+
 [explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 
 [explorerplusplus](https://github.com/derceg/explorerplusplus): Explorer++ is a lightweight and fast file manager for Windows
@@ -65,6 +67,8 @@
 [terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
 
 [thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
+
+[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 
 [tldr](https://github.com/tldr-pages/tldr): Collaborative cheatsheets for console commands
 
