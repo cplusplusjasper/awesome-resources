@@ -176,6 +176,8 @@
 
 [what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
+[windows-rs](https://github.com/microsoft/windows-rs): Rust for Windows
+
 [wuffs](https://github.com/google/wuffs): a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely.
 
 [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI): Stop relying on GUI; CLI **ROCKS**
