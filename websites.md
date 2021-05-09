@@ -32,6 +32,8 @@
 
 [awesome-web-effect](https://github.com/lindelof/awesome-web-effect): A series of exquisite and compact web page cool effects
 
+[beautiful-docs](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
+
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): Build your own (insert technology here)
