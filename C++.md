@@ -21,6 +21,8 @@
 
 [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 
+[cppwinrt](https://github.com/microsoft/cppwinrt): C++ language projection for the Windows Runtime
+
 [cprimer](https://github.com/andycai/cprimer): C/C++ Primer
 
 [dbg-macro](https://github.com/sharkdp/dbg-macro): A dbg(…) macro for C++

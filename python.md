@@ -25,13 +25,15 @@
 
 [pyamg](https://github.com/pyamg/pyamg): Algebraic Multigrid Solvers in Python
 
+[PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
+
 [Python](https://github.com/geekcomputers/Python): This document helps to understand python in details.
 
 [python-guide](https://github.com/realpython/python-guide): Python best practices guidebook, written for humans.
 
 [python-gems](https://github.com/RealHacker/python-gems): Beautifully constructed python scripts
 
-[PyNite](https://github.com/JWock82/PyNite): A 3D structural engineering finite element library for Python.
+[pytudes](https://github.com/norvig/pytudes): Python programs, usually short, of considerable difficulty, to perfect particular skills.
 
 [quadpy](https://github.com/nschloe/quadpy): Numerical integration (quadrature, cubature) in Python
 
