@@ -31,6 +31,8 @@
 
 [flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software
 
+[fx](https://github.com/antonmedv/fx): Command-line tool and terminal JSON viewer 🔥
+
 [git](https://github.com/git/git): Git Source Code Mirror
 
 [git-quick-stats](https://github.com/arzzen/git-quick-stats): Git quick statistics is a simple and efficient way to access various statistics in git repository.
