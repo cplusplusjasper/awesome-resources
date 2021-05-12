@@ -11,6 +11,8 @@
 
 [cmder](https://github.com/cmderdev/cmder): lovely console emulator package for Windows
 
+[czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
+
 [drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
 
 [dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
@@ -40,6 +42,8 @@
 [git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
 
 [gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
+
+[holyjit](https://github.com/nbp/holyjit): Generic purpose Just-In-time compiler for Rust.
 
 [htop](https://github.com/htop-dev/htop): a cross-platform interactive process viewer.
 

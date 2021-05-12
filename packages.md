@@ -13,6 +13,8 @@
 
 [mpv](https://github.com/mpv-player/mpv): Command line video player
 
+[native-windows-gui](https://github.com/gabdube/native-windows-gui): A light windows GUI toolkit for rust
+
 [netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right!
 
 [ParaView](https://github.com/Kitware/ParaView): VTK-based Data Analysis and Visualization Application
