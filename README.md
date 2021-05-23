@@ -1,5 +1,5 @@
 # awesome-resources
-Source code on github and gitlab.
+Popular repositories on github and gitlab.
 
 ## [Quick start](quick-start.md)
 
