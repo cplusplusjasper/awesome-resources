@@ -13,6 +13,8 @@ Popular repositories on github and gitlab.
 
 ## [Editors](editors.md)
 
+## [Extensions](extensions.md)
+
 ## [Tools](tools.md)
 
 ## [Pakcages](packages.md)
